@@ -1,0 +1,25 @@
+{
+  "name": "digio-api-test",
+  "version": "0.0.0",
+  "description": "Code for testing digio-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tmn/digio-api-test.git"
+  },
+  "keywords": [
+    "digio-api",
+    "digitalocean",
+    "api",
+    "test"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmn/digio-api-test/issues"
+  },
+  "homepage": "https://github.com/tmn/digio-api-test"
+}
